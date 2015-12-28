@@ -1,0 +1,3 @@
+Faker Pose Utility will become a freeware toolkit directed towards the faker (aka fakir) community. The toolkit will hopefully be extendable to other deciplines such as Medical and Image Recognition.
+
+See the Overview pdf in the Downloads section.
